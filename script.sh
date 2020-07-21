@@ -10,3 +10,4 @@ nproc
 lsblk
 
 
+echo "Everything went well"
